@@ -1,0 +1,11 @@
+{
+  "name": "artendb_rl_oestl_mittelland",
+  "version": "1.0.0",
+  "description": "Schreibfehler in Feldnamen korrigieren",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Gabriel",
+  "license": "ISC"
+}
